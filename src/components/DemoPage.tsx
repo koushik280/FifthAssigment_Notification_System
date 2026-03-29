@@ -53,7 +53,7 @@ const DemoPage: React.FC = () => {
         Redux Toolkit · React-Redux · Tailwind CSS · Auto-dismiss · Queue
       </p>
 
-      {/* ── Presets ─────────────────────────────────────────────── */}
+      
       <section className="bg-slate-900 border border-slate-800 rounded-2xl p-6 mb-6">
         <h2 className="text-slate-200 font-semibold text-base mb-4">⚡ Quick Presets</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
@@ -73,7 +73,7 @@ const DemoPage: React.FC = () => {
         </div>
       </section>
 
-      {/* ── Stress test ─────────────────────────────────────────── */}
+     
       <section className="bg-slate-900 border border-slate-800 rounded-2xl p-6 mb-6">
         <h2 className="text-slate-200 font-semibold text-base mb-4">🔥 Stress Test</h2>
         <div className="flex flex-wrap gap-3">
@@ -104,7 +104,7 @@ const DemoPage: React.FC = () => {
         </div>
       </section>
 
-      {/* ── Custom builder ───────────────────────────────────────── */}
+      
       <section className="bg-slate-900 border border-slate-800 rounded-2xl p-6 mb-6">
         <h2 className="text-slate-200 font-semibold text-base mb-4">🛠 Custom Builder</h2>
 
